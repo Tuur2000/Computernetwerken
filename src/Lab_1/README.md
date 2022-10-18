@@ -170,7 +170,7 @@ captured enkel de start van een TCP verbinding – niks meer. Surf vervolgens me
 site ‘www.test.atlantis.ugent.be’. Kan je uit de Wireshark info afleiden welke versie van HTTP
 deze server ondersteunt? Leg uit.
 
-![foto](2022-10-05-11-22-35.png)
+![foto](/img/2022-10-05-11-22-35.png)
 
 ### 9 Maak met telnet verbinding met dezelfde webserver (welke poort?) 
 
@@ -227,7 +227,7 @@ Connection closed by foreign host.
 ; tegelijk capture je opnieuw het aantal TCP verbindingen met
 het script uit de voorgaande vraag. Is er een verschil. Kan je dit verklaren?
 
-![lynx](2022-10-05-11-33-57.png)
+![lynx](/img/2022-10-05-11-33-57.png)
 
 ### 11. Download met behulp van wget een script via HTTP
 
@@ -338,4 +338,4 @@ Start in je Linux VM het script capture_dns.sh6 op dat je downloadde; voer de lo
 www.tinder.com opnieuw uit. Hoeveel DNS requests werden er naar de server gestuurd,
 hoeveel antwoorden kreeg je terug?
 
-![tinder](2022-10-05-11-54-33.png)
+![tinder](/img/2022-10-05-11-54-33.png)
