@@ -1,4 +1,4 @@
-# Labo computernetwerken 1 – Wireshark
+# Labo computernetwerken 2 – Wireshark
 
 ## Is your browser running HTTP version 1.0, 1.1, or 2? What version of HTTP is the server running?
 
